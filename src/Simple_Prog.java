@@ -102,6 +102,7 @@ public class Simple_Prog {
 	 
 	  String helloWorld="This is hello world";
 	  System.out.println("length of helloWorld string :"+getLengthOfString(helloWorld));
+	  System.out.println("Completed");
 	 
 	  }
 	 

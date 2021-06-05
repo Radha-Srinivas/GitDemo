@@ -25,6 +25,7 @@ public class Print_without_semicolon {
         str1 = str1.replace(" ", "\n");  
           
         System.out.println("String after removing all the white spaces : " + str1);  
+        System.out.println("pragram executed succefully");
         
         
         String str2= "Hello";
