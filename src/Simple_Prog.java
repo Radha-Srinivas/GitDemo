@@ -103,7 +103,11 @@ public class Simple_Prog {
 	  String helloWorld="This is hello world";
 	  System.out.println("length of helloWorld string :"+getLengthOfString(helloWorld));
 	  System.out.println("Completed");
-   System.out.println("Cheking for Result");
+   System.out.println("Cheking for Result \n");
+   
+    String s1 = new String("automation");
+     String s2 = new String("AUTOMATION");
+	 System.out.println(s1 = s2); 
 	 
 	  }
 	 
