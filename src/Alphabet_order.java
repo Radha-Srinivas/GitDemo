@@ -18,6 +18,8 @@ public class Alphabet_order
         
         //User is entering the strings and they are stored in an array
         System.out.println("Enter the Strings one by one:");
+        System.out.println("COMPLETED");
+        
         for(int i = 0; i < count; i++)
         {
             str[i] = scan2.nextLine();
